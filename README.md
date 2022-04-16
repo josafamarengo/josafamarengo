@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Josafá</h1>
-<h3 align="left">A Fullstack Java Developer from Brazil</h3>
+<h3 align="left">A Full Stack Java Developer from Brazil</h3>
 
 <img src="https://img.shields.io/github/followers/josafamarengo.svg?style=social&label=Follow&maxAge=2592000">
 
