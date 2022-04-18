@@ -1,7 +1,15 @@
-<h1 align="left">Hi 👋, I'm Josafá</h1>
-<h3 align="left">A Full Stack Java Developer from Brazil</h3>
+<a href="https://linkedin.com/in/josafa-marengo"><img title="Hey, Check Out my Linkedin 🙃" src="header.svg" /></a>
 
 <img src="https://img.shields.io/github/followers/josafamarengo.svg?style=social&label=Follow&maxAge=2592000">
+
+<div align="left"></br>
+  <a href = "mailto:josafabmarengo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/josafa-marengo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.medium.com/@josafabmarengo" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+<a href="https://dev.to/josafamarengo"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
+</div>
+
+##
 
 </br>
 
@@ -27,25 +35,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
-<div></br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josafamarengo&label=Profile%20views&color=0e75b6&style=flat" alt="josafamarengo" /> </p></div>
-
-<div align="left"></br>
-  <a href = "mailto:josafabmarengo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/josafa-marengo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.medium.com/@josafabmarengo" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-<a href="https://dev.to/josafamarengo"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
-</div>
-
-<div align="left"></br>
-  <a href="https://www.linkedin.com/in/josafa-marengo" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josafamarengo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-  
-  ![Snake animation](https://github.com/josafamarengo/josafamarengo/blob/output/github-contribution-grid-snake.svg)
-  
 <div>
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://codesandbox.com/josafamarengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="josafamarengo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/josafabmarengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="josafabmarengo" height="30" width="40" /></a>
@@ -57,3 +48,13 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 </div>
+
+<div></br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=josafamarengo&label=Profile%20views&color=0e75b6&style=flat" alt="josafamarengo" /> </p></div>
+
+<div align="left"></br>
+  <a href="https://www.linkedin.com/in/josafa-marengo" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josafamarengo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+  
+  ![Snake animation](https://github.com/josafamarengo/josafamarengo/blob/output/github-contribution-grid-snake.svg)
