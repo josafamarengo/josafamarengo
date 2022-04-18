@@ -36,14 +36,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
 <div>
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://codesandbox.com/josafamarengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="josafamarengo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/josafabmarengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="josafabmarengo" height="30" width="40" /></a>
-</p>
-</div>
-
-<div></br>
 <h3>Latest Blog posts</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
