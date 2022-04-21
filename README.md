@@ -1,10 +1,10 @@
-<a href="https://linkedin.com/in/josafa-marengo" target="_blank"><img title="Hey, Check Out my Linkedin 🙃" src="header.svg" /></a>
+<a href="https://linkedin.com/in/josafamarengo" target="_blank"><img title="Hey, Check Out my Linkedin 🙃" src="header.svg" /></a>
 
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fjosafamarengo"><img src="https://img.shields.io/github/followers/josafamarengo.svg?style=social&label=Follow&maxAge=2592000"></a>
 
 <div align="left"></br>
   <a href = "mailto:josafabmarengo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/josafa-marengo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/josafamarengo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.medium.com/@josafamarengo" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <a href="https://dev.to/josafamarengo"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
 </div>
@@ -45,7 +45,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josafamarengo&label=Profile%20views&color=0e75b6&style=flat" alt="josafamarengo" /> </p></div>
 
 <div align="left"></br>
-  <a href="https://www.linkedin.com/in/josafa-marengo" target="_blank">
+  <a href="https://www.linkedin.com/in/josafamarengo" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josafamarengo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
   
