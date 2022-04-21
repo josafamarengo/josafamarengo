@@ -1,4 +1,4 @@
-<a href="https://linkedin.com/in/josafamarengo" target="_blank"><img title="Hey, Check Out my Linkedin 🙃" src="header.svg" /></a>
+<a href="https://linkedin.com/in/josafamarengo" target="_blank"><img title="Hey, Check Out my Linkedin 🙃" src="header.svg" target="_blank"/></a>
 
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fjosafamarengo"><img src="https://img.shields.io/github/followers/josafamarengo.svg?style=social&label=Follow&maxAge=2592000"></a>
 
