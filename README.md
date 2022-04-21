@@ -5,7 +5,7 @@
 <div align="left"></br>
   <a href = "mailto:josafabmarengo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josafa-marengo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.medium.com/@josafabmarengo" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+ <a href="https://www.medium.com/@josafamarengo" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <a href="https://dev.to/josafamarengo"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
 </div>
 
@@ -17,9 +17,9 @@
 
 👯 I’m looking to collaborate on **Java and Python projects**
 
-👨‍💻 All of my projects are available at [https://josafa.netlify.app/](https://josafa.netlify.app/)
+👨‍💻 All of my projects are available at [my portfolio.](https://josafa.netlify.app/)
 
-📝 I regularly write articles on [https://medium.com/@josafabmarengo](https://medium.com/@josafabmarengo)
+📝 I regularly write articles on [Medium](https://medium.com/@josafamarengo)
 
 
 <div></br>
