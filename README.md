@@ -16,9 +16,9 @@
 
 👯 I’m looking to collaborate on **Java and Python projects**
 
-👨‍💻 All of my projects are available at [MY PORTFOLIO.](https://josafa.netlify.app/)
+<!--👨‍💻 All of my projects are available at [MY PORTFOLIO.](https://josafa.netlify.app/)
 
-📝 I regularly write articles on [MEDIUM.](https://medium.com/@josafamarengo)
+📝 I regularly write articles on [MEDIUM.](https://medium.com/@josafamarengo) -->
 
 
 <div>
