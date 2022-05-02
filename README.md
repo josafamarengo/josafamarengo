@@ -12,24 +12,24 @@
 
 </br>
 
-🌱 I’m currently learning **Java, Spring Boot, JavaScript and Python**
+🌱 I’m currently learning **Java and JavaScript**
 
-👯 I’m looking to collaborate on **Java and Python projects**
+👯 I’m looking to collaborate on **Java projects**
 
-<!--👨‍💻 All of my projects are available at [MY PORTFOLIO.](https://josafa.netlify.app/)
+👨‍💻 All of my projects are available at [MY PORTFOLIO.](https://josafa.netlify.app/)
 
-📝 I regularly write articles on [MEDIUM.](https://medium.com/@josafamarengo) -->
+📝 I regularly write articles on [MEDIUM.](https://medium.com/@josafamarengo) or [DEV.TO](https://dev.to/josafamarengo)
 
 
 <div>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left"> 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+
 
 <div></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josafamarengo&label=Profile%20views&color=0e75b6&style=flat" alt="josafamarengo" /> </p></div>
@@ -43,7 +43,7 @@
   ![Snake animation](https://github.com/josafamarengo/josafamarengo/blob/output/github-contribution-grid-snake.svg)
 
 <div>
-<h3>Latest Blog posts</h3>
+<h3>📕 Latest Blog posts</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 </div>
