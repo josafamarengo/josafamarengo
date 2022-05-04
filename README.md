@@ -52,12 +52,14 @@
 
 
 <div></br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josafamarengo&label=Profile%20views&color=0e75b6&style=flat" alt="josafamarengo" /> </p></div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=josafamarengo&label=Profile%20views&color=0e75b6&style=flat" alt="josafamarengo" /> </p></div
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=netflix-clone&hide_border=true&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4&icon_color=ffff00)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/josafamarengo" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josafamarengo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=josafamarengo&show_icons=true&locale=en&layout=compact&theme=tokyonight&iclude_all_commits=true" alt="josafamarengo" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josafamarengo&hide_border=true&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4&hide_rank=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=josafamarengo&show_icons=true&layout=compact&hide_border=true&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4" alt="josafamarengo" />
   </a>
   
 </div>
