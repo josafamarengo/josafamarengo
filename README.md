@@ -1,8 +1,12 @@
-<a href="https://linkedin.com/in/josafamarengo" target="_blank"><img title="Hey, Check Out my Linkedin 🙃" src="header.svg" target="_blank"/></a>
-
-</br>
-<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fjosafamarengo"><img src="https://img.shields.io/github/followers/josafamarengo.svg?style=social&label=Follow&maxAge=2592000"></a>
-
+<a href="https://linkedin.com/in/josafamarengo" target="_blank"><img title="Hey, Check Out my Linkedin" src="header.svg" target="_blank"/></a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/josafamarengo" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josafamarengo&hide_border=true&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4&hide_rank=true&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://www.linkedin.com/in/josafamarengo" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=josafamarengo&show_icons=true&layout=compact&hide_border=true&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4" alt="josafamarengo" />
+  </a> 
+</div>
 <div align="left"></br>
   <a href="https://www.linkedin.com/in/josafamarengo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:josafabmarengo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
@@ -56,13 +60,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=netflix-clone&hide_border=true&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4&icon_color=ffff00)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/josafamarengo" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josafamarengo&hide_border=true&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4&hide_rank=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=josafamarengo&show_icons=true&layout=compact&hide_border=true&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4" alt="josafamarengo" />
-  </a>
-  
-</div>
   
   ![Snake animation](https://github.com/josafamarengo/josafamarengo/blob/output/github-contribution-grid-snake.svg)
 
