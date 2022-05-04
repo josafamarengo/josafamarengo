@@ -7,59 +7,25 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=josafamarengo&show_icons=true&layout=compact&hide_border=true&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4" alt="josafamarengo" />
   </a> 
 </div>
-<div align="left"></br>
-  <a href="https://www.linkedin.com/in/josafamarengo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:josafabmarengo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
-
-##
-
-</br>
-
-🌱 I’m currently learning **Java and JavaScript**
-
-👯 I’m looking to collaborate on **Java projects**
-
-👨‍💻 All of my projects are available at [MY PORTFOLIO.](https://josafa.netlify.app/)
-
-📝 I regularly write articles on <a href="https://josafa.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" target="_blank" /></a>
-
-<br/>
-
-<div>
-  <h2 align="left">Languages and Tools:</h3>
-  <h3>Backend</h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  
-  <h3>Frontend</h3>
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </p>
-  
-  <h3>Data Base</h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</div>
-
 
 <div></br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josafamarengo&label=Profile%20views&color=0e75b6&style=flat" alt="josafamarengo" /> </p></div
+  <p align="right"><img src="https://komarev.com/ghpvc/?username=josafamarengo&label=Profile%20views&color=0e75b6&style=flat" alt="josafamarengo" /></p>
+</div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=netflix-clone&hide_border=true&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4&icon_color=ffff00)](https://github.com/anuraghazra/github-readme-stats)
+<h3>Projects</h3>
 
-  
-  ![Snake animation](https://github.com/josafamarengo/josafamarengo/blob/output/github-contribution-grid-snake.svg)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=netflix-clone&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4&icon_color=ffff00&border_color=404040&border_radius=5)](https://github.com/josafamarengo/netflix-clone)
 
 <div>
 <h3>📕 Latest Blog posts</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+</div>
+
+![Snake animation](https://github.com/josafamarengo/josafamarengo/blob/output/github-contribution-grid-snake.svg)
+
+
+<div align="left"></br>
+  <a href="https://www.linkedin.com/in/josafamarengo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:josafabmarengo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
