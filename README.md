@@ -1,18 +1,12 @@
 <a href="https://linkedin.com/in/josafamarengo" target="_blank"><img title="Hey, Check Out my Linkedin" src="header.svg" target="_blank"/></a>
 <div align="left">
   <a href="https://www.linkedin.com/in/josafamarengo" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josafamarengo&hide_border=true&bg_color=0D1117&text_color=f1f1f1&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=josafamarengo&show_icons=true&layout=compact&hide_border=true&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4" alt="josafamarengo" />
   </a>
-  <a href="https://www.linkedin.com/in/josafamarengo" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=josafamarengo&show_icons=true&layout=compact&hide_border=true&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4" alt="josafamarengo" />
-  </a> 
-</div>
-
-<div></br>
   <p align="right"><img src="https://komarev.com/ghpvc/?username=josafamarengo&label=Profile%20views&color=0e75b6&style=flat" alt="josafamarengo" /></p>
 </div>
 
-<h3>Projects</h3>
+<h3>📐 Projects</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=netflix-clone&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4&icon_color=ffff00&border_color=404040&border_radius=5)](https://github.com/josafamarengo/netflix-clone)
 
