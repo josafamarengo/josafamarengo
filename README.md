@@ -9,7 +9,7 @@
 <h3>📐 Projects</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=streaming&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4&icon_color=ffff00&border_color=404040&border_radius=5)](https://github.com/josafamarengo/streaming)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=covid-data&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4&icon_color=ffff00&border_color=404040&border_radius=5)](https://github.com/josafamarengo/covid-data)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=covid19&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4&icon_color=ffff00&border_color=404040&border_radius=5)](https://github.com/josafamarengo/covid19)
 
 
 <div>
