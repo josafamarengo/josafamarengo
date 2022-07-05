@@ -9,9 +9,11 @@
 <h3>📐 Projects</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=streaming&bg_color=0D1117&text_color=f1f1f1&title_color=ff79c6&icon_color=50fa7b&border_color=404040&border_radius=5)](https://github.com/josafamarengo/streaming)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=bankline&bg_color=0D1117&text_color=f1f1f1&title_color=ff79c6&icon_color=50fa7b&border_color=404040&border_radius=5)](https://github.com/josafamarengo/bankline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=tarefas&bg_color=0D1117&text_color=f1f1f1&title_color=ff79c6&icon_color=50fa7b&border_color=404040&border_radius=5)](https://github.com/josafamarengo/tarefas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=covid19&bg_color=0D1117&text_color=f1f1f1&title_color=ff79c6&icon_color=50fa7b&border_color=404040&border_radius=5)](https://github.com/josafamarengo/covid19)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=instagram-login-page&bg_color=0D1117&text_color=f1f1f1&title_color=ff79c6&icon_color=50fa7b&border_color=404040&border_radius=5)](https://github.com/josafamarengo/instagram-login-page)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=qrcode-generator&bg_color=0D1117&text_color=f1f1f1&title_color=ff79c6&icon_color=50fa7b&border_color=404040&border_radius=5)](https://github.com/josafamarengo/qrcode-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=bankline&bg_color=0D1117&text_color=f1f1f1&title_color=ff79c6&icon_color=50fa7b&border_color=404040&border_radius=5)](https://github.com/josafamarengo/bankline)
 
 
 <div>
