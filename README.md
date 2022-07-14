@@ -3,10 +3,30 @@
   <a href="https://www.linkedin.com/in/josafamarengo" target="_blank">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=josafamarengo&show_icons=true&layout=compact&hide_border=true&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4" alt="josafamarengo" />
   </a>
-  <p align="right"><img src="https://komarev.com/ghpvc/?username=josafamarengo&label=Profile%20views&color=0e75b6&style=flat" alt="josafamarengo" /></p>
 </div>
 
-<h3>📐 Projects</h3>
+[![Portfolio](https://img.shields.io/badge/my_portfolio-0D1117?style=for-the-badge&logo=ko-fi&logoColor=white)](https://josafa.com.br)
+
+### 🛠 &nbsp; Skills
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" /> &nbsp; 
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="50" /> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" /> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" /> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg" width="50" /> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="50" /> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="50" />  &nbsp;
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" /> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" /> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="50" /> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" />
+
+<div>
+  <h3>✏️ &nbsp; Latest Blog posts</h3>
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+</div>
+
+### 📐 &nbsp; Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=streaming&bg_color=0D1117&text_color=f1f1f1&title_color=ff79c6&icon_color=50fa7b&border_color=404040&border_radius=5)](https://github.com/josafamarengo/streaming)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=tarefas&bg_color=0D1117&text_color=f1f1f1&title_color=ff79c6&icon_color=50fa7b&border_color=404040&border_radius=5)](https://github.com/josafamarengo/tarefas)
@@ -15,17 +35,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=qrcode-generator&bg_color=0D1117&text_color=f1f1f1&title_color=ff79c6&icon_color=50fa7b&border_color=404040&border_radius=5)](https://github.com/josafamarengo/qrcode-generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=bankline&bg_color=0D1117&text_color=f1f1f1&title_color=ff79c6&icon_color=50fa7b&border_color=404040&border_radius=5)](https://github.com/josafamarengo/bankline)
 
-
-<div>
-  <h3>📕 Latest Blog posts</h3>
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
-</div>
-
 ![Snake animation](https://github.com/josafamarengo/josafamarengo/blob/output/github-contribution-grid-snake.svg)
-
-
-<div align="center"></br>
-  <a href="https://www.linkedin.com/in/josafamarengo" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" target="_blank" width="40"></a>
-  <a href = "mailto:josafabmarengo@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" target="_blank" width="40"></a>
-</div>
