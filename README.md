@@ -30,6 +30,7 @@
 
 ### ✏️ &nbsp; Latest Blog posts</h3>
 <!-- BLOG-POST-LIST:START -->
+- [Início da Jornada](https://blog.josafa.com.br/inicio-da-jornada)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📐 &nbsp; Projects
