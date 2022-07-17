@@ -6,9 +6,12 @@
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="40" /> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" /> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" /> &nbsp;
+<img src="https://iconape.com/wp-content/png_logo_vector/redux-logo.png" width="40" /> &nbsp;
 <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" width="40" /> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" /> &nbsp;
+<img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" width="40" /> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/adonisjs/adonisjs-icon.svg" width="40" /> &nbsp;
+<img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" width="40" /> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" /> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" /> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" />  &nbsp;
