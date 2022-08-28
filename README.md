@@ -4,16 +4,17 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jet+Brains&duration=3000&pause=1500&color=39B358&center=true&width=600&height=160&lines=Seja+bem-vindo(a)+ao+meu+GItHub!;Abaixo+listei+um+resumo+de+minhas+habilidades.;Tem+os+meus+%C3%BAltimos+artigos+no+blog.;E+os+meus+principais+reposit%C3%B3rios+tamb%C3%A9m." alt="Typing SVG" /></a>
 </div>
 
-<img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=josafamarengo&show_icons=true&layout=compact&hide_border=true&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4" alt="josafamarengo" />
+<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josafamarengo&show_icons=true&layout=compact&hide_border=true&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4" alt="josafamarengo" />
 
-#### Connect with me:
-<p align="left">
-    <a href="https://codepen.io/josafamarengo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="josafamarengo" height="30" width="60" /></a>
-    <a href="https://linkedin.com/in/josafamarengo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josafamarengo" height="30" width="60" /></a>
-    <a href="https://www.leetcode.com/josafamarengo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="josafamarengo" height="30" width="60" /></a>
+<h4 align="center">Connect with me:</h4>
+<p align="center">
+    <a href="https://codepen.io/josafamarengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="josafamarengo" height="30" width="60" /></a>
+    <a href="https://linkedin.com/in/josafamarengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josafamarengo" height="30" width="60" /></a>
+    <a href="https://www.leetcode.com/josafamarengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="josafamarengo" height="30" width="60" /></a>
 </p>
 
-<br>
+<br><br><br>
+
 
 ### 🛠 &nbsp; Skills
 
@@ -38,10 +39,14 @@
 
 ---
 
+<br>
+
 ### ✏️ &nbsp; Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Início da Jornada](https://blog.josafa.com.br/inicio-da-jornada)
 <!-- BLOG-POST-LIST:END -->
+
+<br>
 
 ### 📐 &nbsp; Projects
 
