@@ -23,17 +23,15 @@
 <div align="center">
     <img src="https://cdn.svgporn.com/logos/javascript.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" /> &nbsp; &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" /> &nbsp; &nbsp;
+    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" />  &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" width="40" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp; &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" />
 </div>
 
