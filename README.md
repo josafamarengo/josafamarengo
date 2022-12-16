@@ -32,7 +32,6 @@
 ---
 
 <div align="center">
-    <img src="https://cdn.svgporn.com/logos/javascript.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="40" /> &nbsp; &nbsp;
