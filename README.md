@@ -88,8 +88,13 @@
 
 <div align="center">
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><div align='center'><a href=https://blog.josafa.com.br/inicio-da-jornada><h4>1 - Início da Jornada</h4><br><p>&lt;p&gt;H algum tempo utilizo  &lt;strong&gt;HTML&lt;/strong&gt;, &lt;strong&gt;CSS&lt;/strong&gt; e &lt;strong&gt;JavaScript&lt;/strong&gt; para criao de pginas pessoais, mas s no incio desse ano resolvi estudar de verdade e me profissionalizar. &lt;/p&gt;
+&lt;p&gt;At ento, estava preso no pensamento de &lt;em&gt;estar velho pra isso&lt;/em&gt; de quem est chegando nos 30 e sabe que precisa estudar muito para concorrer com gente que estuda o assunto h uma dcada ou mais.&lt;/p&gt;
+&lt;p&gt;Bom, superando esse complexo e inspirado em amigos prximos que tambm esto entrando na programao agora, estou entrando de cabea nos estudos.&lt;/p&gt;
+&lt;p&gt;Inicio essa jornada partindo dos fundamentos, indo at assuntos mais avanados. J organizei os tpicos, mas eles podem ser alterados durante a execuo do projeto.&lt;/p&gt;
+&lt;p&gt;Para registrar meus estudos, farei pequenos resumos e anotaes no Notion e os compartilharei aqui. Ento, sintam-se  vontade para colaborar adicionando seus conhecimentos, dvidas e sugestes.&lt;/p&gt;
+&lt;p&gt;At o prximo captulo!&lt;/p&gt;
+</p></a></div><!-- BLOG-POST-LIST:END -->
     
 </div>
 
