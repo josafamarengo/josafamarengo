@@ -11,7 +11,7 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31x2rdc667fy3bufsr64zifuxho4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" atl="Listening now" align="left" >
 </div>
 
-<div align="left">
+<div align="center">
     <a href="https://linkedin.com/in/josafamarengo" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="120">
     </a>
