@@ -12,4 +12,4 @@ jobs:
               with: 
                 max_post_count: "6"
                 feed_list: "https://blog.josafa.com.br/rss.xml"
-                template: "<div align='center'><a href='$url'><h4>$counter - $title</h4><br><p>$categories</p></a></div>"
+                template: "<div align='center'><a href='$url'><h4>$counter - $title</h4></a></div>"
