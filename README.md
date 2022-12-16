@@ -1,8 +1,8 @@
 <a href="https://linkedin.com/in/josafamarengo" target="_blank"><img title="Hey, Check Out my Linkedin" src="header.svg" target="_blank"/></a>
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jet+Brains&duration=3000&pause=1500&color=39B358&center=true&width=600&height=160&lines=Seja+bem-vindo(a)+ao+meu+GItHub!;Abaixo+listei+um+resumo+de+minhas+habilidades.;Tem+os+meus+%C3%BAltimos+artigos+no+blog.;E+os+meus+principais+reposit%C3%B3rios+tamb%C3%A9m." alt="Typing SVG" /></a>
-</div>
+</div> -->
 
 <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josafamarengo&show_icons=true&layout=compact&hide_border=true&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4" alt="josafamarengo" />
 
@@ -37,22 +37,25 @@
 
 ---
 
-<br>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31x2rdc667fy3bufsr64zifuxho4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" atl="Listening now" align="right">
 
-### ✏️ &nbsp; Latest Blog posts
+<br>
+<h3> ✏️ &nbsp; Latest Blog posts </h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [Início da Jornada](https://blog.josafa.com.br/inicio-da-jornada)
 <!-- BLOG-POST-LIST:END -->
-
 <br>
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31x2rdc667fy3bufsr64zifuxho4&width=300&count=10" alt="Spotify" align="right" >
 
 ### 📐 &nbsp; Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=streaming&bg_color=0D1117&text_color=f1f1f1&title_color=ff79c6&icon_color=50fa7b&border_color=404040&border_radius=5)](https://github.com/josafamarengo/streaming)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=tarefas&bg_color=0D1117&text_color=f1f1f1&title_color=ff79c6&icon_color=50fa7b&border_color=404040&border_radius=5)](https://github.com/josafamarengo/tarefas)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=covid19&bg_color=0D1117&text_color=f1f1f1&title_color=ff79c6&icon_color=50fa7b&border_color=404040&border_radius=5)](https://github.com/josafamarengo/covid19)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=instagram-login-page&bg_color=0D1117&text_color=f1f1f1&title_color=ff79c6&icon_color=50fa7b&border_color=404040&border_radius=5)](https://github.com/josafamarengo/instagram-login-page)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=qrcode-generator&bg_color=0D1117&text_color=f1f1f1&title_color=ff79c6&icon_color=50fa7b&border_color=404040&border_radius=5)](https://github.com/josafamarengo/qrcode-generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=bankline&bg_color=0D1117&text_color=f1f1f1&title_color=ff79c6&icon_color=50fa7b&border_color=404040&border_radius=5)](https://github.com/josafamarengo/bankline)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=streaming&bg_color=0D1117&text_color=f1f1f1&title_color=539bf5&icon_color=768390&border_color=404040&border_radius=6)](https://github.com/josafamarengo/streaming)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=tarefas&bg_color=0D1117&text_color=f1f1f1&title_color=539bf5&icon_color=768390&border_color=404040&border_radius=6)](https://github.com/josafamarengo/tarefas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=covid19&bg_color=0D1117&text_color=f1f1f1&title_color=539bf5&icon_color=768390&border_color=404040&border_radius=6)](https://github.com/josafamarengo/covid19)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=instagram-login-page&bg_color=0D1117&text_color=f1f1f1&title_color=539bf5&icon_color=768390&border_color=404040&border_radius=6)](https://github.com/josafamarengo/instagram-login-page)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=qrcode-generator&bg_color=0D1117&text_color=f1f1f1&title_color=539bf5&icon_color=768390&border_color=404040&border_radius=6)](https://github.com/josafamarengo/qrcode-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=bankline&bg_color=0D1117&text_color=f1f1f1&title_color=539bf5&icon_color=768390&border_color=404040&border_radius=6)](https://github.com/josafamarengo/bankline)
 
 ![Snake animation](https://github.com/josafamarengo/josafamarengo/blob/output/github-contribution-grid-snake.svg)
