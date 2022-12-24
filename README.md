@@ -29,8 +29,6 @@
 
 <h3 align="center">Skills</h3>
 
----
-
 <div align="center">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" /> &nbsp; &nbsp;
@@ -43,8 +41,6 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" />
 </div>
-
----
 
 <br>
 <h3 align="center">Projects</h3>
