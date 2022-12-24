@@ -88,8 +88,7 @@
 
 <div align="center">
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><div align='center'><a href='https://blog.josafa.com.br/titulo-de-teste'><h4>1 - Título de teste</h4></a></div><div align='center'><a href='https://blog.josafa.com.br/inicio-da-jornada'><h4>2 - Início da Jornada</h4></a></div><!-- BLOG-POST-LIST:END -->
     
 </div>
 
