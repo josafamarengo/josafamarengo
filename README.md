@@ -49,8 +49,6 @@
 <br>
 <h3 align="center">Projects</h3>
 
----
-
 <div align="center">
     <a href="https://github.com/josafamarengo/streaming">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=streaming&bg_color=0D1117&text_color=f1f1f1&title_color=539bf5&icon_color=768390&border_color=404040&border_radius=6">
@@ -75,17 +73,13 @@
 <br>
 <div align="center">
     <a href="https://josafa.com.br" target="_blank" rel="noreferrer noopener">
-        <img src="https://img.shields.io/badge/Ver%20mais-0D1117?style=plastic" width="80">
+        <img src="https://img.shields.io/badge/Ver%20mais-0D1117?style=for-the-badge" width="100">
     </a>
 </div>
-
----
-
+<br>
 <br>
 <h3 align="center">Blog</h3>
-
----
-
+<br>
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
@@ -94,14 +88,14 @@
 <!-- BLOG-POST-LIST:END -->
     
 </div>
-
+<br>
 <div align="center">
     <a href="https://josafa.com.br/blog" target="_blank" rel="noreferrer noopener">
-        <img src="https://img.shields.io/badge/Ver%20mais-0D1117?style=plastic" width="80">
+        <img src="https://img.shields.io/badge/Ver%20mais-0D1117?style=for-the-badge" width="100">
     </a>
 </div>
 
----
+<br>
 
 <div align="center">
     <img src="https://github.com/josafamarengo/josafamarengo/blob/output/github-contribution-grid-snake.svg">
