@@ -11,3 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 feed_list: "https://blog.josafa.com.br/rss.xml"
+                template: "<a href='$url'><h3>$title</h3></a>"
