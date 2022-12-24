@@ -10,6 +10,4 @@ jobs:
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
-                max_post_count: "5"
                 feed_list: "https://blog.josafa.com.br/rss.xml"
-                template: '<div align="center"><a href="$url"><h3>$title</h3></a></div>'
