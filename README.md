@@ -79,8 +79,7 @@
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
-- [Título de teste](https://blog.josafa.com.br/titulo-de-teste)
-- [Início da Jornada](https://blog.josafa.com.br/inicio-da-jornada)
+- [5 Motivos Para Você Aprender Docker](https://josafa.com.br/blog/5-motivos-para-voce-aprender-docker)
 <!-- BLOG-POST-LIST:END -->
     
 </div>
