@@ -6,12 +6,9 @@
 
 <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josafamarengo&show_icons=true&layout=compact&hide_border=true&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4" alt="josafamarengo" />
 
-<div align="left">
-    <h3 align="left">Listening now</h3>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31x2rdc667fy3bufsr64zifuxho4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" atl="Listening now" align="left" >
-</div>
-
 <div align="center">
+    <br>
+    <br>
     <a href="https://linkedin.com/in/josafamarengo" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="120">
     </a>
@@ -26,6 +23,7 @@
 </div>
 
 <br>
+<br>
 
 <h3 align="center">Skills</h3>
 
@@ -34,12 +32,14 @@
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" /> &nbsp; &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="34" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" /> &nbsp; &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" />  &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" />
 </div>
 
 <br>
