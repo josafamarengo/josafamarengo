@@ -43,6 +43,8 @@
 </div>
 
 <br>
+
+<!--
 <h3 align="center">Projects</h3>
 
 <div align="center">
@@ -65,7 +67,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=josafamarengo&repo=qrcode-generator&bg_color=0D1117&text_color=f1f1f1&title_color=539bf5&icon_color=768390&border_color=404040&border_radius=6">
     </a>
 </div>
-
 <br>
 <div align="center">
     <a href="https://josafa.com.br" target="_blank" rel="noreferrer noopener">
@@ -74,6 +75,7 @@
 </div>
 <br>
 <br>
+-->
 <h3 align="center">Blog</h3>
 <br>
 <div align="center">
@@ -92,7 +94,3 @@
 </div>
 
 <br>
-
-<div align="center">
-    <img src="https://github.com/josafamarengo/josafamarengo/blob/output/github-contribution-grid-snake.svg">
-</div>
