@@ -1,24 +1,14 @@
 <a href="https://josafa.com.br" target="_blank"><img title="Go to josafa.com.br" src="header.svg" target="_blank"/></a>
 
-<!-- <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jet+Brains&duration=3000&pause=1500&color=39B358&center=true&width=600&height=160&lines=Seja+bem-vindo(a)+ao+meu+GItHub!;Abaixo+listei+um+resumo+de+minhas+habilidades.;Tem+os+meus+%C3%BAltimos+artigos+no+blog.;E+os+meus+principais+reposit%C3%B3rios+tamb%C3%A9m." alt="Typing SVG" /></a>
-</div> -->
-
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josafamarengo&show_icons=true&layout=compact&hide_border=true&bg_color=0D1117&text_color=f1f1f1&title_color=f4f4f4" alt="josafamarengo" />
-
 <div align="center">
-    <br>
-    <br>
     <a href="https://linkedin.com/in/josafamarengo" target="_blank" rel="noreferrer noopener">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="120">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="31">
     </a>
-    <br>
     <a href="https://josafa.com.br" target="_blank" rel="noreferrer noopener">
-        <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=dev.to&logoColor=white" width="120">
+        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="31">
     </a>
-    <br>
     <a href="https://josafa.com.br/#contact" target="_blank" rel="noreferrer noopener">
-        <img src="https://img.shields.io/badge/Contato-0D1117?style=for-the-badge&logo=gmail&logoColor=white" width="120">
+        <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=telegram&logoColor=white" height="31">
     </a>
 </div>
 
