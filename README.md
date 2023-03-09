@@ -20,15 +20,11 @@
 <div align="center">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="34" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" />  &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp; &nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft Azure" width="40" hright="40" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" />
 </div>
 
