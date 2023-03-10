@@ -67,9 +67,9 @@
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
-- [13 Extensões do Chrome para Desenvolvedores](https://josafa.com.br/blog/13-extensoes-do-google-chrome-para-desenvolvedores)
-- [Salário inicial de mais de R$ 5 mil, sem experiência.](https://josafa.com.br/blog/concurso-banco-do-brasil-agente-de-tecnologia-2023)
-- [Por qual linguagem de programação começar.](https://josafa.com.br/blog/qual-linguagem-de-programacao-comecar-a-aprender)
+- [13 Extensões do Chrome para Desenvolvedores](https://josafa.com.br/blog/13-extensoes-do-google-chrome-para-desenvolvedores/)
+- [Salário inicial de mais de R$ 5 mil, sem experiência.](https://josafa.com.br/blog/concurso-banco-do-brasil-agente-de-tecnologia-2023/)
+- [Por qual linguagem de programação começar.](https://josafa.com.br/blog/qual-linguagem-de-programacao-comecar-a-aprender/)
 <!-- BLOG-POST-LIST:END -->
     
 </div>
