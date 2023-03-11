@@ -1,4 +1,4 @@
-### Josafá Marengo | Full Stack Developer [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+### Josafá Marengo | Full Stack Developer [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josafamarengo)
 
 - 👨‍💻 All of my projects are available at [https://josafa.com.br](https://josafa.com.br)
 - 📝 I regularly write articles on [https://josafa.com.br/blog](https://josafa.com.br/blog)
