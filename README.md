@@ -13,10 +13,10 @@
 <div>
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="30" /> &nbsp; &nbsp;
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="30" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="30" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="24" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30" /> &nbsp; &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="30" /> &nbsp; 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" /> &nbsp; &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="26" /> &nbsp; &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="28" /> &nbsp; &nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft Azure" width="30" /> &nbsp; &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="35" />
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="40" />
 </div>
