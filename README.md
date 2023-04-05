@@ -5,6 +5,7 @@
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Serpro oferece 600 vagas com remuneração inicial de R$ 9 mil](https://josafa.com.br/blog/concurso-serpro-2023/)
 - [Como fazer um aplicativo para o meu negócio?](https://josafa.com.br/blog/como-fazer-um-aplicativo-para-o-meu-negocio/)
 - [Por qual linguagem de programação começar.](https://josafa.com.br/blog/qual-linguagem-de-programacao-comecar-a-aprender/)
 - [13 Extensões do Chrome para Desenvolvedores](https://josafa.com.br/blog/13-extensoes-do-google-chrome-para-desenvolvedores/)
