@@ -12,6 +12,9 @@
 - [Salário inicial de mais de R$ 5 mil, sem experiência.](https://josafa.com.br/blog/concurso-banco-do-brasil-agente-de-tecnologia-2023/)
 <!-- BLOG-POST-LIST:END -->
 ---
+
+#### Filter my projects by clicking on the following icons:
+
 <div>
     <a href="https://github.com/josafamarengo?tab=repositories&language=typescript">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="30" />
