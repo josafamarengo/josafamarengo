@@ -5,11 +5,11 @@
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Serpro oferece 600 vagas com remuneração inicial de R$ 9 mil](https://josafa.com.br/blog/concurso-serpro-2023/)
+- [Concurso SERPRO 2023: Edital traz 602 vagas](https://josafa.com.br/blog/saiu-o-deital-do-concurso-SERPRO-2023/)
+- [SERPRO oferece 602 vagas com inicial de R$ 9 mil](https://josafa.com.br/blog/concurso-serpro-2023/)
 - [Como fazer um aplicativo para o meu negócio?](https://josafa.com.br/blog/como-fazer-um-aplicativo-para-o-meu-negocio/)
 - [Por qual linguagem de programação começar.](https://josafa.com.br/blog/qual-linguagem-de-programacao-comecar-a-aprender/)
 - [13 Extensões do Chrome para Desenvolvedores](https://josafa.com.br/blog/13-extensoes-do-google-chrome-para-desenvolvedores/)
-- [Salário inicial de mais de R$ 5 mil, sem experiência.](https://josafa.com.br/blog/concurso-banco-do-brasil-agente-de-tecnologia-2023/)
 <!-- BLOG-POST-LIST:END -->
 ---
 
