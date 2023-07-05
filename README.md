@@ -41,6 +41,9 @@
     <a href="https://github.com/josafamarengo?tab=repositories&q=azure">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft Azure" width="30" />
     </a> &nbsp; &nbsp;
+    <a href="https://github.com/josafamarengo?tab=repositories&q=aws">
+        <img src="https://logodownload.org/wp-content/uploads/2017/11/amazon-web-services-logo-12.png"  alt="AWS" width="40" />
+    </a> &nbsp; &nbsp;
     <a href="https://github.com/josafamarengo?tab=repositories&q=docker">
         <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="40" />
     </a>
