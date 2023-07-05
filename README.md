@@ -1,7 +1,10 @@
-### Josafá Marengo | Full Stack Developer [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josafamarengo)
+### Josafá Marengo | Full Stack Developer 
 
-- 👨‍💻 All of my projects are available at [https://josafa.com.br](https://josafa.com.br)
-- 📝 I regularly write articles on [https://josafa.com.br/blog](https://josafa.com.br/blog)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josafamarengo)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@josafa.marengo)
+
+<!-- - 👨‍💻 All of my projects are available at [https://josafa.com.br](https://josafa.com.br)
+- 📝 I regularly write articles on [https://josafa.com.br/blog](https://josafa.com.br/blog) -->
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
