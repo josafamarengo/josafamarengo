@@ -36,7 +36,7 @@
     <a href="https://github.com/josafamarengo?tab=repositories&q=angular">
         <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="30" />
     </a> &nbsp; &nbsp;
-    <!-- <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="30" /> &nbsp; -->
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="30" /> &nbsp;
     <a href="https://github.com/josafamarengo?tab=repositories&language=java">
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" />
     </a> &nbsp; &nbsp;
@@ -45,6 +45,9 @@
     </a> &nbsp; &nbsp;
     <a href="https://github.com/josafamarengo?tab=repositories&q=spring">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="28" />
+    </a> &nbsp; &nbsp;
+    <a href="https://github.com/josafamarengo?tab=repositories&language=python">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png" width="30" />
     </a> &nbsp; &nbsp;
     <a href="https://github.com/josafamarengo?tab=repositories&q=azure">
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft Azure" width="30" />
