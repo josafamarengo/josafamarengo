@@ -8,7 +8,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Big Data com Hadoop: Processamento de Dados em Grande Escala](https://josafa.com.br/blog/big-data-com-hadoop:-processamento-de-dados-em-grande-escala)
+- [Big Data com Hadoop: Processamento de Dados em Grande Escala](https://josafa.com.br/blog/big-data-com-hadoop-processamento-de-dados-em-grande-escala)
 - [Prepare-se para os testes do Linkedin](https://josafa.com.br/blog/prepare-se-para-o-teste-de-competencias-do-linkedin)
 - [Concurso SERPRO 2023: Edital traz 602 vagas](https://josafa.com.br/blog/saiu-o-edital-do-concurso-SERPRO-2023)
 - [SERPRO oferece 602 vagas com inicial de R$ 9 mil](https://josafa.com.br/blog/concurso-serpro-2023)
