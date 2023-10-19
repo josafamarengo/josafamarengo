@@ -8,11 +8,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [23 métodos de strings que todo desenvolvedor Python deve saber](https://josafa.com.br/blog/23-metodos-de-string-em-python)
 - [Java Collections: Saiba quando usar Set, Map, List ou Queue.](https://josafa.com.br/blog/java-collections-saiba-quando-usar-set-map-list-ou-queue)
 - [10 métodos de Strings em Java que você precisa saber](https://josafa.com.br/blog/10-metodos-de-strings-em-java-que-voce-precisa-saber)
 - [Big Data com Hadoop: Processamento de Dados em Grande Escala](https://josafa.com.br/blog/big-data-com-hadoop-processamento-de-dados-em-grande-escala)
 - [Prepare-se para os testes do Linkedin](https://josafa.com.br/blog/prepare-se-para-o-teste-de-competencias-do-linkedin)
-- [Concurso SERPRO 2023: Edital traz 602 vagas](https://josafa.com.br/blog/saiu-o-edital-do-concurso-SERPRO-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest YouTube Videos
