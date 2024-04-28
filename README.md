@@ -1,4 +1,4 @@
-### Josafá Marengo | Bsckend Developer 
+### Josafá Marengo | Backend Developer 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josafamarengo)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@josafa.marengo)
