@@ -33,10 +33,9 @@
     <a href="https://github.com/josafamarengo?tab=repositories&q=angular">
         <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="30" />
     </a> &nbsp; &nbsp;
-   <!-- <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="30" /> &nbsp;
     <a href="https://github.com/josafamarengo?tab=repositories&language=java">
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" />
-    </a> &nbsp; &nbsp; -->
+    </a> &nbsp; &nbsp;
     <a href="https://github.com/josafamarengo?tab=repositories&language=kotlin">
         <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="26" />
     </a> &nbsp; &nbsp;
