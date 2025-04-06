@@ -5,11 +5,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A evolução do switch no Java: do statement ao pattern matching](https://josafa.com.br/blog/a-evolucao-do-switch-no-java)
 - [18 Métodos de Arrays em JavaScript que Você Deveria Saber](https://josafa.com.br/blog/18-metodos-de-array-em-javascript-que-voce-deveria-saber)
 - [10 métodos de strings em JavaScript que você deveria saber](https://josafa.com.br/blog/10-metodos-de-strings-em-javascript-que-voce-precisa-saber)
 - [23 métodos de strings que todo desenvolvedor Python deve saber](https://josafa.com.br/blog/23-metodos-de-string-em-python)
 - [Java Collections: Saiba quando usar Set, Map, List ou Queue.](https://josafa.com.br/blog/java-collections-saiba-quando-usar-set-map-list-ou-queue)
-- [10 métodos de Strings em Java que você precisa saber](https://josafa.com.br/blog/10-metodos-de-strings-em-java-que-voce-precisa-saber)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest YouTube Videos
