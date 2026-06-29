@@ -4,12 +4,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@josafa.marengo)
 
 ### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [A evolução do switch no Java: do statement ao pattern matching](https://josafa.com.br/blog/a-evolucao-do-switch-no-java)
-- [18 Métodos de Arrays em JavaScript que Você Deveria Saber](https://josafa.com.br/blog/18-metodos-de-array-em-javascript-que-voce-deveria-saber)
-- [10 métodos de strings em JavaScript que você deveria saber](https://josafa.com.br/blog/10-metodos-de-strings-em-javascript-que-voce-precisa-saber)
-- [23 métodos de strings que todo desenvolvedor Python deve saber](https://josafa.com.br/blog/23-metodos-de-string-em-python)
-- [Java Collections: Saiba quando usar Set, Map, List ou Queue.](https://josafa.com.br/blog/java-collections-saiba-quando-usar-set-map-list-ou-queue)
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/shorts/jHBkvaP1yn8"><img width="140px" src="http://img.youtube.com/vi/jHBkvaP1yn8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/jHBkvaP1yn8">#coffee #aeropress #café</a><br/>Jan 28, 2026</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest YouTube Videos
