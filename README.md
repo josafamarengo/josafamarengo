@@ -12,10 +12,6 @@
 - [Java Collections: Saiba quando usar Set, Map, List ou Queue.](https://josafa.com.br/blog/java-collections-saiba-quando-usar-set-map-list-ou-queue)
 <!-- BLOG-POST-LIST:END -->
 
-### Latest YouTube Videos
-<!-- YOTUTUBE:START -->
-<!-- YOUTUBE:END -->
-
 ---
 
 #### Filter my projects by clicking on the following icons:
